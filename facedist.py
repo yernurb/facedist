@@ -1,5 +1,5 @@
-import cv2
-import dlib
+import cv2 # OpenCV
+import dlib # DLIB
 from imutils.video import VideoStream
 import imutils
 import time
